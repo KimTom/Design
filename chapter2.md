@@ -17,6 +17,8 @@
 * 疑似クラスは要素全体を指定するのに対し、疑似要素は要素の一部分を指定する。
 * http://blog.3streamer.net/html5-css3/pseudo-elements-and-pesudo-classes-530/  
 ↑詳しくはここを見ればだいたいわかる。
+* http://www.htmq.com/selector/before.shtml  
+↑CSSのコマンドの使用例がいっぱいある。
 
 # 詳細度の計算
 CSSはIDやクラス、要素が多く指定されているものの方が優先順位は高くなる。
